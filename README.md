@@ -135,7 +135,8 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 시스템에서 사용하는 주요 데이터베이스 테이블의 구조와 역할을 정의합니다.  
 
 <details>
-  <summary>📜 **테이블 정의서:**</summary>
+  
+  📜 **테이블 정의서:**
   <br>
 
   <img src="https://github.com/user-attachments/assets/f1deb7f4-281c-4a4f-9ce9-a9dc31a9388f"><br>
@@ -157,6 +158,7 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
   <img src="https://github.com/user-attachments/assets/f4a4dc4d-32d4-461b-884c-4ec0f815013a"><br>
   <img src="https://github.com/user-attachments/assets/0ff5d7fc-a6bb-4513-b99f-4f63341cf265">
 </details>
+
 ---
 
 ## 👥 **팀 구성 및 역할**  
