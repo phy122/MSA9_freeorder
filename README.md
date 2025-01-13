@@ -80,8 +80,8 @@ QR 오더 및 POS 시스템 구현을 위한 요구사항 정의서입니다.
     - 사용자별 주문 내역 관리  
     - 실시간 주문 상태 확인  
   <br>
-  https://github.com/user-attachments/assets/277b19da-3471-482a-8ee4-f999f0eb0a95
-  https://github.com/user-attachments/assets/8f38f4c5-ed26-4f78-b658-81057ffbc387
+  <img src="https://github.com/user-attachments/assets/277b19da-3471-482a-8ee4-f999f0eb0a95">
+  <img src="https://github.com/user-attachments/assets/8f38f4c5-ed26-4f78-b658-81057ffbc387">
 </details>
 - **POS 기능 요구사항 정의서:**
 
