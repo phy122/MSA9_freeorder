@@ -39,10 +39,10 @@
 ## 🛠️ **기술 스택**  
 
 - **Backend**:  
-  Java, Spring Boot, Spring MVC, RESTful API  
+  Java, Spring Boot, Spring MVC, Spring Security, RESTful API
 
 - **Frontend**:  
-  React, HTML, CSS, JavaScript  
+  React, HTML, CSS, JavaScript, Thymleaf
 
 - **Database**:  
   MySQL  
@@ -117,7 +117,9 @@ QR 오더 및 POS 시스템 구현을 위한 요구사항 정의서입니다.
 1. 요구사항 분석  
 2. 시스템 설계 (ERD, 테이블 정의)  
 3. 개발 및 테스트 (Backend, Frontend 분리)  
-4. 클라우드 배포 및 시연  
+4. 클라우드 배포 및 시연
+![수행절차](https://github.com/user-attachments/assets/5f11dd99-91e3-447c-b124-b0907729888f)
+
 
 ### **3. 개발 환경 및 장비**  
 - **IDE:** IntelliJ IDEA, VS Code  
