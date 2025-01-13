@@ -235,6 +235,7 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
   <img src="https://github.com/user-attachments/assets/ae7dfc17-0d94-4c03-8fe1-d94667f0656a"><br>
   <img src="https://github.com/user-attachments/assets/1eec961f-60da-422e-8e24-db421c8e044e">
 </details>
+
 ---
 
 ## 📝 **평가 및 소감**  
