@@ -101,9 +101,8 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
   
   - **관리 기능**: QR 코드를 통한 주문 상태 관리 및 알림 전송.
   <br>
-  <img src="https://example.com/qr-function1.jpg" width="300" alt="QR 기능 이미지 1"><br>
-  <img src="https://example.com/qr-function2.jpg" width="300" alt="QR 기능 이미지 2"><br>
-  <img src="https://example.com/qr-function3.jpg" width="300" alt="QR 기능 이미지 3"><br>
+  <img src="https://github.com/user-attachments/assets/9873c293-84f0-4282-98b8-adfb9185b431"><br>
+  <img src="https://github.com/user-attachments/assets/1089205a-d576-4217-88ee-a41c595e2f3f">
 </details>
 
 ---
@@ -120,11 +119,12 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 
   - **데이터 통계**: 일별/월별 매출 통계 자동 생성 및 관리자 페이지 제공.  
 
-  - **POS 관리**: 상품, 카테고리, 옵션 등 CRUD 기능.  
-
-  <img src="https://example.com/pos-function1.jpg" width="300" alt="POS 기능 이미지 1"><br>
-  <img src="https://example.com/pos-function2.jpg" width="300" alt="POS 기능 이미지 2"><br>
-  <img src="https://example.com/pos-function3.jpg" width="300" alt="POS 기능 이미지 3"><br>
+  - **POS 관리**: 상품, 카테고리, 옵션 등 CRUD 기능.
+  <br>
+  <img src="https://github.com/user-attachments/assets/6289956a-9755-4953-b93c-efac3aa9640d"><br>
+  <img src="https://github.com/user-attachments/assets/cc6b507e-f591-4f2a-ab41-15390e3d4c75"><br>
+  <img src="https://github.com/user-attachments/assets/fb7e4f28-c20f-4f36-9fe4-d5bd7526c14d"><br>
+  <img src="https://github.com/user-attachments/assets/fe05763e-c9d7-413c-bb2a-4ff94ba44090">
 </details>
 
 ---
