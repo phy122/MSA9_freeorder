@@ -83,10 +83,41 @@ QR 오더 및 POS 시스템 구현을 위한 요구사항 정의서입니다.
 ## 📂 **기능 정의서**  
 
 시스템의 세부 기능과 역할을 명시한 문서입니다.  
-- **QR 기능 정의서:**
+각 시스템별 주요 기능과 세부 사항은 아래에서 확인할 수 있습니다.
 
-- **POS 기능 정의서:**
+---
 
+### 📱 **QR 기능 정의서**  
+QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.  
+
+<details>
+  <summary>🖼️ **QR 기능 주요 기능 (클릭하여 자세히 보기)**</summary>
+  <br>
+  **QR 기능 주요 항목:**  
+  - **주문 접수**: QR 코드 스캔 시 사용자가 메뉴를 확인하고 주문할 수 있도록 설계.  
+  - **사용자 맞춤형 서비스**: 사용자 데이터 기반으로 이벤트 제공.  
+  - **관리 기능**: QR 코드를 통한 주문 상태 관리 및 알림 전송.
+  <img src="https://example.com/qr-function1.jpg" width="300" alt="QR 기능 이미지 1"><br>
+  <img src="https://example.com/qr-function2.jpg" width="300" alt="QR 기능 이미지 2"><br>
+  <img src="https://example.com/qr-function3.jpg" width="300" alt="QR 기능 이미지 3"><br>
+</details>
+
+---
+
+### 💳 **POS 기능 정의서**  
+매장에서의 결제 및 데이터 관리 시스템의 세부 기능입니다.  
+
+<details>
+  <summary>🖼️ **POS 기능 주요 기능 (클릭하여 자세히 보기)**</summary>
+  <br>
+  **POS 기능 주요 항목:**  
+  - **결제 처리**: 다양한 결제 방식(카드, 현금, 간편 결제) 지원 및 영수증 발행.  
+  - **데이터 통계**: 일별/월별 매출 통계 자동 생성 및 관리자 페이지 제공.  
+  - **POS 관리**: 상품, 카테고리, 옵션 등 CRUD 기능.  
+  <img src="https://example.com/pos-function1.jpg" width="300" alt="POS 기능 이미지 1"><br>
+  <img src="https://example.com/pos-function2.jpg" width="300" alt="POS 기능 이미지 2"><br>
+  <img src="https://example.com/pos-function3.jpg" width="300" alt="POS 기능 이미지 3"><br>
+</details>
 
 ---
 
