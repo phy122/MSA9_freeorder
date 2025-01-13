@@ -136,9 +136,8 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 
 <details>
   
-  📜 **테이블 정의서:**
+  <summary>📜 **테이블 정의서:**</summary>
   <br>
-
   <img src="https://github.com/user-attachments/assets/f1deb7f4-281c-4a4f-9ce9-a9dc31a9388f"><br>
   <img src="https://github.com/user-attachments/assets/522a9e22-ffba-4a6e-a36f-63ad388de160"><br>
   <img src="https://github.com/user-attachments/assets/57be1195-33bc-4802-a2b5-47b87aa0fe43"><br>
