@@ -99,8 +99,8 @@ QR 오더 및 POS 시스템 구현을 위한 요구사항 정의서입니다.
 | **이름**   | **역할 및 담당**                                  |  
 |------------|---------------------------------------------------|  
 | ![김동진](https://example.com/kimdongjin.jpg) | **프로젝트 매니저** <br> 프로젝트 진행 및 관리 <br> 팀 커뮤니케이션 조율 |
-| (![ 배순영](https://github.com/user-attachments/assets/e10c684e-280c-4e98-a979-be0f633bbcb7)
-) | **Spring Boot 기반 Backend 및 데이터베이스 설계** <br> 서버 설계 및 DB 구조 설계 <br> API 설계 및 구현 |
+| ![배순영](img src="https://github.com/user-attachments/assets/e10c684e-280c-4e98-a979-be0f633bbcb7" width="100" height="150")
+| **Spring Boot 기반 Backend 및 데이터베이스 설계** <br> 서버 설계 및 DB 구조 설계 <br> API 설계 및 구현 |
 | ![이동현](https://example.com/leedonghyeon.jpg) | **React 기반 Frontend 개발 및 UI/UX 디자인** <br> 화면 설계 및 구현 <br> 사용자 경험 최적화 |
 | ![유지현](https://example.com/yujihyun.jpg) | **WebSocket 기반 실시간 통신 및 결제 기능 구현** <br> 실시간 통신 시스템 구현 <br> 결제 시스템 설계 및 구현 |
 | ![박호영](https://example.com/parkhoyeong.jpg) | **AWS 클라우드 배포 및 관리자 페이지 설계** <br> 클라우드 배포 환경 설정 <br> 관리자 페이지 UI/UX 설계 |
