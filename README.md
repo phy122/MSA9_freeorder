@@ -129,10 +129,35 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 
 ---
 
-## 🗂️ **테이블 정의서**  
+## 📊 **테이블 정의서**  
 
-시스템 데이터 구조 및 테이블 정의를 포함한 문서입니다.  
-- **테이블 정의서:**
+
+시스템에서 사용하는 주요 데이터베이스 테이블의 구조와 역할을 정의합니다.  
+
+<details>
+  <summary>📜 **테이블 정의서:**</summary>
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/f1deb7f4-281c-4a4f-9ce9-a9dc31a9388f"><br>
+  <img src="https://github.com/user-attachments/assets/522a9e22-ffba-4a6e-a36f-63ad388de160"><br>
+  <img src="https://github.com/user-attachments/assets/57be1195-33bc-4802-a2b5-47b87aa0fe43"><br>
+  <img src="https://github.com/user-attachments/assets/707e2caa-15e3-401d-a21c-23ac1c968eec"><br>
+  <img src="https://github.com/user-attachments/assets/526c3eff-f17e-4bf9-b654-2111f1b96ac3"><br>
+  <img src="https://github.com/user-attachments/assets/6cb115fa-5e70-4eef-be10-df54a945be60"><br>
+  <img src="https://github.com/user-attachments/assets/29f9ee54-b00c-4c93-bdcc-c2e44814723b"><br>
+  <img src="https://github.com/user-attachments/assets/b986a386-6fda-4f47-b0d6-92a8703efc9f"><br>
+  <img src="https://github.com/user-attachments/assets/9788850e-407e-4449-bd29-55601e98dfe1"><br>
+  <img src="https://github.com/user-attachments/assets/02ec3bab-b9e4-4946-9329-ed4ea8d7c4df"><br>
+  <img src="https://github.com/user-attachments/assets/ae619415-65fd-48c3-a211-a8e208908559"><br>
+  <img src="https://github.com/user-attachments/assets/74c1ca14-b2cc-4b60-b53e-7aa78799ba1b"><br>
+  <img src="https://github.com/user-attachments/assets/aa39b95f-6890-46d4-baae-9ea8cd471412"><br>
+  <img src="https://github.com/user-attachments/assets/a5900ba5-8a9d-4ba4-8629-53aa82c944c9"><br>
+  <img src="https://github.com/user-attachments/assets/c788d3a8-2a9a-4938-a19a-54c6f9120802"><br>
+  <img src="https://github.com/user-attachments/assets/a6c6892a-4ff3-4a1d-922f-a3bc9feb71cc"><br>
+  <img src="https://github.com/user-attachments/assets/f4a4dc4d-32d4-461b-884c-4ec0f815013a"><br>
+  <img src="https://github.com/user-attachments/assets/0ff5d7fc-a6bb-4513-b99f-4f63341cf265">
+</details>
+- 
 
 ---
 
