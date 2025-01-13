@@ -183,6 +183,7 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 2. 시스템 설계 (ERD, 테이블 정의)  
 3. 개발 및 테스트 (Backend, Frontend 분리)  
 4. 클라우드 배포 및 시연
+
 ![수행절차](https://github.com/user-attachments/assets/5f11dd99-91e3-447c-b124-b0907729888f)
 
 
