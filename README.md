@@ -157,8 +157,6 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
   <img src="https://github.com/user-attachments/assets/f4a4dc4d-32d4-461b-884c-4ec0f815013a"><br>
   <img src="https://github.com/user-attachments/assets/0ff5d7fc-a6bb-4513-b99f-4f63341cf265">
 </details>
-- 
-
 ---
 
 ## 👥 **팀 구성 및 역할**  
