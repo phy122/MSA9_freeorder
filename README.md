@@ -164,7 +164,7 @@ QR 코드를 활용한 주문 및 관리 시스템의 세부 기능입니다.
 | <img src="https://github.com/user-attachments/assets/e10c684e-280c-4e98-a979-be0f633bbcb7" width="100" height="130"> | **배순영** | **Spring Boot 기반 Backend 및 데이터베이스 설계** <br> 서버 설계 및 DB 구조 설계 <br> API 설계 및 구현 |
 | <img src="https://github.com/user-attachments/assets/272dd6c9-8e26-4660-b671-dc0ac65223b7" width="100" height="130"> | **이동현** | **React 기반 Frontend 개발 및 UI/UX 디자인** <br> 화면 설계 및 구현 <br> 사용자 경험 최적화 |
 | <img src="https://github.com/user-attachments/assets/19d2c56a-b293-4e97-9dbc-cb68a0e828ab" width="100" height="130"> | **유지현** | **WebSocket 기반 실시간 통신 및 결제 기능 구현** <br> 실시간 통신 시스템 구현 <br> 결제 시스템 설계 및 구현 |
-| <img src="https://github.com/user-attachments/assets/a7365c3a-5eb4-40aa-880c-448f90029578" width="100" height="130"> | **박호영** | **AWS 클라우드 배포 및 관리자 페이지 설계** <br> 클라우드 배포 환경 설정 <br> 관리자 페이지 UI/UX 설계 |
+| <img src="https://github.com/user-attachments/assets/a7365c3a-5eb4-40aa-880c-448f90029578" width="100" height="130"> | **박호영** | **drag & drop 기능 구현 및 관리자 페이지 설계** <br> drag & drop 기능 구현 <br> 관리자 페이지 UI/UX 설계 |
 
 ---
 
