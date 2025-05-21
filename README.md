@@ -50,9 +50,6 @@
 - **Real-Time Communication**:  
   WebSocket  
 
-- **Cloud Deployment**:  
-  AWS  
-
 - **Version Control**:  
   Git, GitHub  
 
